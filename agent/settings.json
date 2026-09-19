@@ -38,5 +38,6 @@
     "mermaid": "streaming"
   },
   "showCacheMissNotices": true,
-  "doubleEscapeAction": "fork"
+  "doubleEscapeAction": "fork",
+  "tuiMode": "fullscreen"
 }

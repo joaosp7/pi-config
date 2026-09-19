@@ -1,3 +1,5 @@
 {
-  "app.model.cycleForward": []
+  "app.model.cycleForward": [],
+  "tui.altScreen.lineUp": "shift+up",
+  "tui.altScreen.lineDown": "shift+down"
 }
