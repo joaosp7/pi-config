@@ -1,0 +1,9 @@
+{
+  "favorites": [
+    { "provider": "opencode-go", "model": "deepseek-v4-pro" },
+    { "provider": "opencode-go", "model": "deepseek-v4-flash" },
+    { "provider": "openrouter", "model": "anthropic/claude-fable-5" }
+  ],
+  "cycleForwardKey": "ctrl+p",
+  "cycleBackwardKey": "ctrl+alt+m"
+}

@@ -1,0 +1,12 @@
+# Secrets and credentials
+auth.json
+
+# Session history and generated model catalogs
+sessions/
+models-store.json
+
+# Generated/runtime directories
+bin/
+
+# macOS metadata
+.DS_Store
