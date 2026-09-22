@@ -1,5 +1,7 @@
 {
   "app.model.cycleForward": [],
+  "app.thinking.cycle": "ctrl+r",
+  "app.session.rename": [],
   "tui.altScreen.lineUp": "shift+up",
   "tui.altScreen.lineDown": "shift+down"
 }

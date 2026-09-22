@@ -1,8 +1,33 @@
 {
   "favorites": [
-    { "provider": "opencode-go", "model": "deepseek-v4-pro" },
-    { "provider": "opencode-go", "model": "deepseek-v4-flash" },
-    { "provider": "openrouter", "model": "anthropic/claude-fable-5" }
+    {
+      "provider": "opencode-go",
+      "model": "deepseek-v4-pro"
+    },
+    {
+      "provider": "opencode-go",
+      "model": "deepseek-v4-flash"
+    },
+    {
+      "provider": "opencode-go",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "provider": "openai-codex",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "provider": "openai-codex",
+      "model": "gpt-5.6-sol"
+    },
+    {
+      "provider": "openai-codex",
+      "model": "gpt-5.6-terra"
+    },
+    {
+      "provider": "openai-codex",
+      "model": "gpt-6-astra"
+    }
   ],
   "cycleForwardKey": "ctrl+p",
   "cycleBackwardKey": "ctrl+alt+m"
